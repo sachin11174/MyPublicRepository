@@ -19,7 +19,6 @@ namespace WindowsPDFSplitter
         {
             InitializeComponent();
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
             string pdfFilePath = @"C:\Users\aks75987\Desktop\BGC Docs\HSC\SchoolCertificate.pdf";
