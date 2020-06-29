@@ -1,0 +1,24 @@
+E:\Sample\PdfSplit\PdfSplit\bin\Debug\PdfSplit.exe.config
+E:\Sample\PdfSplit\PdfSplit\bin\Debug\PdfSplit.exe
+E:\Sample\PdfSplit\PdfSplit\bin\Debug\PdfSplit.pdb
+E:\Sample\PdfSplit\PdfSplit\bin\Debug\itextsharp.dll
+E:\Sample\PdfSplit\PdfSplit\bin\Debug\itextsharp.xml
+E:\Sample\PdfSplit\PdfSplit\obj\Debug\PdfSplit.csprojResolveAssemblyReference.cache
+E:\Sample\PdfSplit\PdfSplit\obj\Debug\PdfSplit.exe
+E:\Sample\PdfSplit\PdfSplit\obj\Debug\PdfSplit.pdb
+E:\MySample\Article4\PdfSplit\PdfSplit\bin\Debug\PdfSplit.exe.config
+E:\MySample\Article4\PdfSplit\PdfSplit\obj\Debug\PdfSplit.exe
+E:\MySample\Article4\PdfSplit\PdfSplit\obj\Debug\PdfSplit.pdb
+E:\MySample\Article4\PdfSplit\PdfSplit\bin\Debug\PdfSplit.exe
+E:\MySample\Article4\PdfSplit\PdfSplit\bin\Debug\PdfSplit.pdb
+E:\MySample\Article4\PdfSplit\PdfSplit\bin\Debug\itextsharp.dll
+E:\MySample\Article4\PdfSplit\PdfSplit\bin\Debug\itextsharp.xml
+E:\MySample\Article4\PdfSplit\PdfSplit\obj\Debug\PdfSplit.csprojResolveAssemblyReference.cache
+C:\Users\aks75987\Desktop\BGC Docs\PdfSplit1\PdfSplit\PdfSplit\bin\Debug\PdfSplit.exe.config
+C:\Users\aks75987\Desktop\BGC Docs\PdfSplit1\PdfSplit\PdfSplit\obj\Debug\PdfSplit.exe
+C:\Users\aks75987\Desktop\BGC Docs\PdfSplit1\PdfSplit\PdfSplit\obj\Debug\PdfSplit.pdb
+C:\Users\aks75987\Desktop\BGC Docs\PdfSplit1\PdfSplit\PdfSplit\bin\Debug\PdfSplit.exe
+C:\Users\aks75987\Desktop\BGC Docs\PdfSplit1\PdfSplit\PdfSplit\bin\Debug\PdfSplit.pdb
+C:\Users\aks75987\Desktop\BGC Docs\PdfSplit1\PdfSplit\PdfSplit\bin\Debug\itextsharp.dll
+C:\Users\aks75987\Desktop\BGC Docs\PdfSplit1\PdfSplit\PdfSplit\bin\Debug\itextsharp.xml
+C:\Users\aks75987\Desktop\BGC Docs\PdfSplit1\PdfSplit\PdfSplit\obj\Debug\PdfSplit.csprojResolveAssemblyReference.cache
